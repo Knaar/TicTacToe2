@@ -1,0 +1,13 @@
+﻿"TicTacToe2.exe" (Win32). Загружено "C:\Users\Bordunos\source\repos\TicTacToe2\x64\Debug\TicTacToe2.exe". Символы загружены.
+"TicTacToe2.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"TicTacToe2.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"TicTacToe2.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"TicTacToe2.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"TicTacToe2.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"TicTacToe2.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"TicTacToe2.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0xa184 завершился с кодом 0 (0x0).
+Поток 0x7d14 завершился с кодом 3221225786 (0xc000013a).
+Поток 0x8650 завершился с кодом 3221225786 (0xc000013a).
+Поток 0x7f50 завершился с кодом 3221225786 (0xc000013a).
+Программа "[29256] TicTacToe2.exe" завершилась с кодом 3221225786 (0xc000013a).
